@@ -1,0 +1,31 @@
+# Core Data Analysis Libraries
+pandas==2.3.3
+numpy==2.3.4
+scipy==1.16.2
+scikit-learn==1.7.2
+joblib==1.5.2
+
+# Visualization Libraries
+matplotlib==3.10.7
+seaborn==0.13.2
+plotly==6.3.1
+
+# Dashboard / Web App
+streamlit==1.50.0
+
+# Utility & Helper Packages
+requests==2.32.5
+altair==5.5.0
+pydeck==0.9.1
+
+# Jupyter Notebook Support (for collaborators)
+ipykernel==7.1.0
+notebook>=7.0.0
+
+# System and Logging
+watchdog==6.0.0
+protobuf==6.33.0
+
+# Optional but recommended (for clean environment management)
+python-dateutil==2.9.0.post0
+tzdata==2025.2

@@ -182,6 +182,11 @@ This project showcases how **machine learning** and **interactive visualization*
 
 ---
 
+## 🛠️ Setup Instructions
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/Climate-Impact-Visualiser.git
+   cd Climate-Impact-Visualiser
 
 
