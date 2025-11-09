@@ -90,7 +90,6 @@ with tab2:
     """)
 
 # ------------------------- TAB 3: YIELD PREDICTION -------------------------
-# ------------------------- TAB 3: YIELD PREDICTION -------------------------
 with tab3:
     st.subheader("Predict Crop Yield Based on Climate Conditions")
 
