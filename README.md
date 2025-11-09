@@ -155,7 +155,7 @@ Then open your browser at **[http://localhost:8501](http://localhost:8501)**
 
 > You can include a screenshot like the one you shared.
 
-![App Screenshot](images/app_preview.png)
+![App Screenshot](images/Dashboard_ss.png)
 
 ---
 
